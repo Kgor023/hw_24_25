@@ -1,0 +1,16 @@
+.black {
+  background-color: black;
+  height: 80px;
+  width: 80px;
+  border: 1px solid black;
+}
+.white {
+  background-color: white;
+  height: 80px;
+  width: 80px;
+  border: 1px solid black;
+}
+.x-input, .y-input, #create {
+  margin: 30px;
+}
+
